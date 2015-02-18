@@ -12,5 +12,5 @@ This image provides a simple Docker registry mirror.
 
 #Usage
 
-	Update your Docker daemon config so that it is started with the **--registry-mirror=http://registry-mirror:5555** option.
+Update your Docker daemon config so that it is started with the **--registry-mirror=http://registry-mirror:5555** option.
 
